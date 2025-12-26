@@ -9,6 +9,8 @@ export interface Song {
   thumbnailUrl: string;
   duration: string;
   bitrate: "320kbps" | "FLAC";
+  bitDepth?: string;
+  sampleRate?: string;
   status?: 'idle' | 'searching' | 'converting' | 'tagging' | 'completed';
 }
 
