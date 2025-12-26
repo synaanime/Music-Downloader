@@ -1,0 +1,5 @@
+{
+  "name": "SonicFetch - Pro Music Search & Downloader",
+  "description": "A high-fidelity music search and metadata exploration dashboard with simulated high-bitrate conversion and ID3 tagging visualization.",
+  "requestFramePermissions": []
+}
